@@ -5,10 +5,20 @@ large scale deployments and at-scale adoption with customers and partners. This 
 inside Microsoft to help customers and partners by providing prescriptive and actionable guidance and implementation to accelerate
 deployment and adoption of industry cloud.
 
+![Industry Cloud Overview](./docs/industry-cloud.png)
+
 ## Industry Cloud Reference Architecture
 
 - [Healthcare](./healthcare/readme.md)
 - [Telecommunications](./telco/readme.md)
+
+### Healthcare
+
+![Healthcare Industry Reference Architecture](./healthcare/docs/mc4h-reference-architecture.png)
+
+### Telecommunications
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
